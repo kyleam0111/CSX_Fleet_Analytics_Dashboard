@@ -1,0 +1,18 @@
+# Fleet Analytics Dashboard – Project Plan
+
+## Objective
+Create a Power BI dashboard that models the core KPIs used in fleet operations, with a focus on utilization, maintenance compliance, and repair cost efficiency.
+Uses real public fleet datasets as a proxy for CSX fleet operations.
+
+## Steps
+1. Import fleet maintenance dataset into Power BI.
+2. Create three core KPI cards:
+   - PM Compliance
+   - Average Repair Cost per Vehicle
+   - Utilization Rate
+3. Build two visualizations:
+   - Repair Cost by Vehicle Type
+   - PM Compliance Trend by Month
+4. Add a repair cost trend line chart.
+5. Format and export as PDF.
+6. Add PBIX file and PDF to this GitHub repo.
